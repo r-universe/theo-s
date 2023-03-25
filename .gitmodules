@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "Rforestry"]
+	path = Rforestry
+	url = https://github.com/cran/Rforestry
+	shallow = true
+	registered = true
